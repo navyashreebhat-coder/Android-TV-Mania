@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TV Mania</string>
+    <string name="catalog_hint">Use the D-pad or a Bluetooth remote to browse. Select a title to stream.</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="rewind">Rewind 10 seconds</string>
+    <string name="forward">Forward 10 seconds</string>
+</resources>
